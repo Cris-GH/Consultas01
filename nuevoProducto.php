@@ -37,7 +37,7 @@
                     <img src="img/15.png" class="img img-fluid" style="height: 170px;"><br><br> 
                 </div>
                 <div class="col-md-4">
-                <h4 class="text-center">Registro de productoss</h4><br>
+                <h4 class="text-center">Registro de productos</h4><br>
 						<form method="post" action="crearproducto.php">
 							<div class="form-group">
                                 <label for="descripcion" class="text-start">Descripcion:</label><br><br>
